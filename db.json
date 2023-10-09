@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI PRO MP223 21.45 Full HD Business Monitor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-228x228.webp",
+      "category": "monitor",
+      "price": "9,800",
+      "status": true,
+      "rating": "4.5",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "SAMSUNG LF22T350 22 Full HD IPS LED Monitor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-228x228.webp",
+      "category": "samsung",
+      "price": "12,699",
+      "status": false,
+      "rating": "4.1",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "GIGABYTE G24F 23.8 170Hz Full HD IPS Gaming Monitor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/gigabyte/g24f-23-8/g24f-23-8-2-228x228.jpg",
+      "category": "monitor",
+      "price": "24,800",
+      "status": true,
+      "rating": "3.1",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "GIGABYTE H610M H DDR4 13th Gen and 12th",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/h610m-h-ddr4/h610m-h-ddr4-01-228x228.jpg",
+      "category": "motherboard",
+      "price": "10,500",
+      "status": false,
+      "rating": "3.5",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "name": "MSI PRO H410M-B 10th Gen Micro-ATX Motherboard",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/pro-h410m-b/pro-h410m-b-01-228x228.jpg",
+      "category": "motherboard",
+      "price": "12,500",
+      "status": true,
+      "rating": "4.5",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "MSI B560M PRO-E 10th and 11th Gen Micro ATX Motherboard",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/msi/b560m-pro-e/b560m-pro-e-228x228.jpg",
+      "category": "motherboard",
+      "price": "10,200",
+      "status": true,
+      "rating": "3.5",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "name": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
+      "category": "processor",
+      "price": "36000",
+      "status": true,
+      "rating": "2.5",
+      "featured": true
+    },
+    {
+      "id": 8,
+      "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-228x228.webp",
+      "category": "processor",
+      "price": "7,000",
+      "status": false,
+      "rating": "5",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Corsair DOMINATOR PLATINUM RGB 8GB DDR4",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/cosair/dominator-platinum-rgb/dominator-platinum-rgb-05-228x228.webp",
+      "category": "RAM",
+      "price": "3,500",
+      "status": true,
+      "rating": "2.5",
+      "featured": true
+    },
+    {
+      "id": 10,
+      "name": "Corsair Vengeance LPX 8GB 3200MHz DDR4 Desktop RAM",
+      "image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-228x228.png",
+      "category": "RAM",
+      "price": "3000",
+      "status": true,
+      "rating": "5",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Corsair CV650 650Watt 80 Plus Bronze Certified Power Supply",
+      "image": "https://www.startech.com.bd/image/cache/catalog/RAM/VENG_LPX_BLK_01-228x228.png",
+      "category": "RAM",
+      "price": "36000",
+      "status": false,
+      "rating": "2.5",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Corsair CV650 650Watt 80 Plus Bronze Certified Power Supply",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/cv650/cv650-1-228x228.jpg",
+      "category": "powersupply",
+      "price": "5,500",
+      "status": true,
+      "rating": "4.5",
+      "featured": true
+    },
+    {
+      "id": 13,
+      "name": "Corsair HX1500i 1500W 80+ Platinum Full-Modular ATX Power Supply",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/hx1500i-1500w/hx1500i-1500w-01-228x228.webp",
+      "category": "powersupply",
+      "price": "15,500",
+      "status": true,
+      "rating": "4.5",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "name": "Corsair TX-M Series TX850M 850W 80 Plus Gold",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/corsair/tx-m-series-tx850m/tx-m-series-tx850m-01-228x228.webp",
+      "category": "powersupply",
+      "price": "11,500",
+      "status": false,
+      "rating": "3.5",
+      "featured": true
+    },
+    {
+      "id": 15,
+      "name": "Enter E-MO-A01 19-inch HD LED Backlit Monitor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/enter/e-mo-a01/e-mo-a01-01-228x228.webp",
+      "category": "monitor",
+      "price": "7,500",
+      "status": true,
+      "rating": "4.5",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "name": "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-11400f/core-i5-11400f-228x228.jpg",
+      "category": "processor",
+      "price": "21,500",
+      "status": true,
+      "rating": "5",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "demo-json-server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "asad santo",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "nodemon": "^2.0.19"
+  }
+}
